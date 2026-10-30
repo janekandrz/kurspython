@@ -1,0 +1,181 @@
+id_wypozyczenia,id_czytelnika,kategoria,data_wypozyczenia,data_zwrotu,filia
+1,C002,reportaż,2026-01-01,,Północ
+2,C007,nauka,2026-01-02,2026-01-06,Południe
+3,C063,literatura,2026-01-03,2026-01-10,Centrum
+4,C037,dla dzieci,2026-01-04,2026-01-25,Północ
+5,C044,reportaż,2026-01-05,2026-01-22,Centrum
+6,C062,literatura,2026-01-06,2026-01-17,Centrum
+7,C052,dla dzieci,2026-01-07,,Centrum
+8,C007,reportaż,2026-01-08,2026-01-29,Centrum
+9,C039,literatura,2026-01-09,2026-02-06,Centrum
+10,C054,reportaż,2026-01-10,2026-01-16,Południe
+11,C058,dla dzieci,2026-01-11,2026-01-26,Północ
+12,C055,nauka,2026-01-12,2026-02-11,Południe
+13,C008,literatura,2026-01-13,,Centrum
+14,C028,nauka,2026-01-14,2026-02-06,Południe
+15,C021,reportaż,2026-01-15,2026-01-20,Centrum
+16,C010,reportaż,2026-01-16,2026-02-05,Centrum
+17,C058,dla dzieci,2026-01-17,2026-02-02,Północ
+18,C030,nauka,2026-01-18,2026-01-22,Południe
+19,C037,dla dzieci,2026-01-19,,Centrum
+20,C030,nauka,2026-01-20,2026-02-13,Południe
+21,C026,dla dzieci,2026-01-21,2026-02-11,Centrum
+22,C029,reportaż,2026-01-22,2026-02-11,Północ
+23,C019,literatura,2026-01-23,2026-02-21,Centrum
+24,C040,nauka,2026-01-24,2026-02-01,Północ
+25,C016,dla dzieci,2026-01-25,,Południe
+26,C052,nauka,2026-01-26,2026-02-07,Południe
+27,C064,dla dzieci,2026-01-27,2026-02-16,Centrum
+28,C006,dla dzieci,2026-01-28,2026-02-19,Południe
+29,C033,literatura,2026-01-29,2026-02-11,Centrum
+30,C003,nauka,2026-01-30,2026-02-09,Południe
+31,C006,reportaż,2026-01-31,,Północ
+32,C057,nauka,2026-02-01,2026-02-20,Centrum
+33,C056,dla dzieci,2026-02-02,2026-02-23,Centrum
+34,C045,dla dzieci,2026-02-03,2026-02-21,Północ
+35,C014,reportaż,2026-02-04,2026-02-17,Północ
+36,C064,nauka,2026-02-05,2026-02-21,Południe
+37,C052,literatura,2026-02-06,,Północ
+38,C041,nauka,2026-02-07,2026-02-12,Północ
+39,C052,literatura,2026-02-08,2026-02-14,Południe
+40,C060,dla dzieci,2026-02-09,2026-03-11,Centrum
+41,C047,dla dzieci,2026-02-10,2026-02-19,Południe
+42,C007,reportaż,2026-02-11,2026-02-28,Północ
+43,C017,nauka,2026-02-12,,Północ
+44,C063,literatura,2026-02-13,2026-03-10,Centrum
+45,C031,reportaż,2026-02-14,2026-03-09,Północ
+46,C002,dla dzieci,2026-02-15,2026-03-07,Centrum
+47,C015,dla dzieci,2026-02-16,2026-02-26,Centrum
+48,C020,dla dzieci,2026-02-17,2026-03-12,Południe
+49,C038,nauka,2026-02-18,,Północ
+50,C062,dla dzieci,2026-02-19,2026-03-20,Centrum
+51,C019,dla dzieci,2026-02-20,2026-03-09,Centrum
+52,C018,literatura,2026-02-21,2026-03-15,Północ
+53,C054,nauka,2026-02-22,2026-03-21,Południe
+54,C001,nauka,2026-02-23,2026-03-06,Południe
+55,C039,dla dzieci,2026-02-24,,Centrum
+56,C062,nauka,2026-02-25,2026-03-14,Północ
+57,C049,dla dzieci,2026-02-26,2026-03-18,Północ
+58,C025,reportaż,2026-02-27,2026-03-29,Południe
+59,C030,dla dzieci,2026-02-28,2026-03-15,Centrum
+60,C061,dla dzieci,2026-03-01,2026-03-14,Północ
+61,C020,dla dzieci,2026-03-02,,Centrum
+62,C065,nauka,2026-03-03,2026-03-10,Centrum
+63,C057,literatura,2026-03-04,2026-04-03,Południe
+64,C002,reportaż,2026-03-05,2026-03-22,Północ
+65,C020,literatura,2026-03-06,2026-04-05,Północ
+66,C034,nauka,2026-03-07,2026-04-04,Południe
+67,C051,literatura,2026-03-08,,Północ
+68,C049,nauka,2026-03-09,2026-04-08,Południe
+69,C063,literatura,2026-03-10,2026-04-04,Południe
+70,C031,nauka,2026-03-11,2026-03-16,Centrum
+71,C012,dla dzieci,2026-03-12,2026-04-07,Centrum
+72,C013,dla dzieci,2026-03-13,2026-04-09,Centrum
+73,C039,literatura,2026-03-14,,Centrum
+74,C008,nauka,2026-03-15,2026-03-28,Północ
+75,C056,reportaż,2026-03-16,2026-03-30,Centrum
+76,C053,reportaż,2026-03-17,2026-04-05,Centrum
+77,C011,dla dzieci,2026-03-18,2026-03-26,Południe
+78,C031,dla dzieci,2026-03-19,2026-04-12,Południe
+79,C019,reportaż,2026-03-20,,Północ
+80,C033,dla dzieci,2026-03-21,2026-04-13,Północ
+81,C002,dla dzieci,2026-03-22,2026-04-15,Północ
+82,C021,literatura,2026-03-23,2026-04-16,Północ
+83,C039,dla dzieci,2026-03-24,2026-04-07,Południe
+84,C059,nauka,2026-03-25,2026-04-05,Centrum
+85,C050,dla dzieci,2026-03-26,,Centrum
+86,C049,nauka,2026-03-27,2026-04-06,Południe
+87,C038,literatura,2026-03-28,2026-04-09,Południe
+88,C036,literatura,2026-03-29,2026-04-13,Południe
+89,C007,dla dzieci,2026-03-30,2026-04-29,Północ
+90,C030,nauka,2026-03-31,2026-04-27,Centrum
+91,C025,nauka,2026-04-01,,Południe
+92,C018,literatura,2026-04-02,2026-04-29,Południe
+93,C006,nauka,2026-04-03,2026-04-26,Północ
+94,C047,reportaż,2026-04-04,2026-04-08,Centrum
+95,C042,dla dzieci,2026-04-05,2026-04-17,Centrum
+96,C017,nauka,2026-04-06,2026-04-15,Południe
+97,C065,nauka,2026-04-07,,Centrum
+98,C062,nauka,2026-04-08,2026-04-19,Południe
+99,C044,literatura,2026-04-09,2026-05-09,Północ
+100,C019,reportaż,2026-04-10,2026-04-15,Południe
+101,C051,nauka,2026-04-11,2026-05-07,Centrum
+102,C051,literatura,2026-04-12,2026-05-10,Północ
+103,C016,dla dzieci,2026-04-13,,Północ
+104,C034,dla dzieci,2026-04-14,2026-05-08,Południe
+105,C014,reportaż,2026-04-15,2026-04-29,Północ
+106,C042,reportaż,2026-04-16,2026-04-19,Południe
+107,C060,nauka,2026-04-17,2026-04-22,Południe
+108,C015,reportaż,2026-04-18,2026-05-04,Centrum
+109,C005,nauka,2026-04-19,,Północ
+110,C013,reportaż,2026-04-20,2026-04-26,Południe
+111,C050,dla dzieci,2026-04-21,2026-04-28,Północ
+112,C054,reportaż,2026-04-22,2026-05-16,Północ
+113,C013,dla dzieci,2026-04-23,2026-05-16,Południe
+114,C036,literatura,2026-04-24,2026-05-10,Południe
+115,C048,reportaż,2026-04-25,,Północ
+116,C031,nauka,2026-04-26,2026-05-13,Centrum
+117,C048,nauka,2026-04-27,2026-05-21,Centrum
+118,C036,reportaż,2026-04-28,2026-05-13,Centrum
+119,C059,literatura,2026-04-29,2026-05-29,Południe
+120,C003,literatura,2026-04-30,2026-05-09,Północ
+121,C032,reportaż,2026-05-01,,Południe
+122,C009,reportaż,2026-05-02,2026-05-11,Południe
+123,C030,nauka,2026-05-03,2026-05-12,Centrum
+124,C001,nauka,2026-05-04,2026-06-01,Centrum
+125,C033,reportaż,2026-05-05,2026-05-12,Centrum
+126,C004,reportaż,2026-05-06,2026-05-30,Centrum
+127,C046,reportaż,2026-05-07,,Południe
+128,C003,reportaż,2026-05-08,2026-05-21,Północ
+129,C017,dla dzieci,2026-05-09,2026-05-13,Południe
+130,C009,dla dzieci,2026-05-10,2026-05-16,Północ
+131,C047,literatura,2026-05-11,2026-06-07,Północ
+132,C029,literatura,2026-05-12,2026-05-31,Południe
+133,C039,dla dzieci,2026-05-13,,Południe
+134,C008,dla dzieci,2026-05-14,2026-05-17,Północ
+135,C014,dla dzieci,2026-05-15,2026-05-31,Południe
+136,C010,literatura,2026-05-16,2026-06-02,Północ
+137,C019,literatura,2026-05-17,2026-06-08,Centrum
+138,C042,dla dzieci,2026-05-18,2026-05-29,Południe
+139,C038,dla dzieci,2026-05-19,,Południe
+140,C056,literatura,2026-05-20,2026-06-11,Południe
+141,C028,dla dzieci,2026-05-21,2026-05-27,Północ
+142,C053,nauka,2026-05-22,2026-06-01,Północ
+143,C054,literatura,2026-05-23,2026-06-07,Północ
+144,C041,nauka,2026-05-24,2026-06-09,Północ
+145,C020,dla dzieci,2026-05-25,,Centrum
+146,C011,literatura,2026-05-26,2026-05-31,Północ
+147,C048,reportaż,2026-05-27,2026-06-02,Południe
+148,C043,literatura,2026-05-28,2026-06-01,Północ
+149,C055,literatura,2026-05-29,2026-06-12,Północ
+150,C040,nauka,2026-05-30,2026-06-21,Centrum
+151,C065,reportaż,2026-01-01,,Centrum
+152,C062,reportaż,2026-01-02,2026-01-26,Centrum
+153,C048,literatura,2026-01-03,2026-01-17,Północ
+154,C029,dla dzieci,2026-01-04,2026-01-25,Południe
+155,C004,nauka,2026-01-05,2026-02-01,Centrum
+156,C035,nauka,2026-01-06,2026-01-14,Północ
+157,C045,literatura,2026-01-07,,Centrum
+158,C019,dla dzieci,2026-01-08,2026-02-07,Centrum
+159,C004,literatura,2026-01-09,2026-01-16,Południe
+160,C028,dla dzieci,2026-01-10,2026-01-29,Północ
+161,C044,reportaż,2026-01-11,2026-01-28,Północ
+162,C042,literatura,2026-01-12,2026-01-24,Centrum
+163,C020,reportaż,2026-01-13,,Południe
+164,C011,nauka,2026-01-14,2026-01-18,Północ
+165,C055,dla dzieci,2026-01-15,2026-02-08,Południe
+166,C054,nauka,2026-01-16,2026-02-02,Centrum
+167,C015,nauka,2026-01-17,2026-02-13,Północ
+168,C037,dla dzieci,2026-01-18,2026-01-24,Południe
+169,C040,literatura,2026-01-19,,Centrum
+170,C008,literatura,2026-01-20,2026-02-04,Centrum
+171,C028,reportaż,2026-01-21,2026-02-02,Północ
+172,C042,literatura,2026-01-22,2026-02-03,Centrum
+173,C056,reportaż,2026-01-23,2026-02-10,Centrum
+174,C030,nauka,2026-01-24,2026-02-08,Centrum
+175,C051,literatura,2026-01-25,,Północ
+176,C059,literatura,2026-01-26,2026-01-29,Północ
+177,C055,dla dzieci,2026-01-27,2026-02-17,Południe
+178,C054,nauka,2026-01-28,2026-02-20,Centrum
+179,C003,nauka,2026-01-29,2026-02-13,Centrum
+180,C059,nauka,2026-01-30,2026-02-27,Centrum
